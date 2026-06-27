@@ -8,12 +8,12 @@
 
 
 const urls = [
-	'https://forms.gle/dpRESkvuJtqng6TWA',
-	'https://forms.gle/U6r8hpcCtsDRZnjQ8',
-	'https://forms.gle/Suw2rhG3rbL5xh3CA',
-	'https://forms.gle/YdtXxoZYHdbUJFhm8',
-	'https://forms.gle/1NmVivCYTR9fXXJ88',
-	'https://forms.gle/gAKca2XchcLh67xw9',
-	'https://forms.gle/gmvUXxEDoEvRvFmB8',
-	'https://forms.gle/d9xU7D2qfPxtDePS6',
+	'https://forms.gle/MqvMbN6zpXMbpDGZ9',
+	'https://forms.gle/FrmGat5j5vttEBAdA',
+	'https://forms.gle/JTZ5vjW8sGe4DNej7',
+	'https://forms.gle/qgVow3Rq8K5wAf7N9',
+	'https://forms.gle/pKxzKuTeuhjW8ksb8',
+	'https://forms.gle/VTTtmrMPnVZXnohD7',
+	'https://forms.gle/jTePDejFKqtJdsMy6',
+	'https://forms.gle/1BUveXbXycRfptgk6',
 ];
